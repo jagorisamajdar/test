@@ -1,2 +1,2 @@
 # test
-This is a test reporsitory
+This is a test repository learning Git
